@@ -44,5 +44,5 @@ Later I can add:
 ---
 
 ## Author
-**Name:** Abhimanyu Manojawas 
-**Reg No:** 24BCE10133
+**Name:** Jigyasa Bharti 
+**Reg No:** 24BCE11474
